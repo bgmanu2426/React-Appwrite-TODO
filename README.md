@@ -1,3 +1,8 @@
+# React Appwrite TODO
+
+## Introduction
+This project demonstrates a simple TODO application using React and Appwrite.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +73,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Usage
+1. Install dependencies.
+2. Run the development server.
+3. Access the application in your browser.
