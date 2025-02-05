@@ -15,7 +15,7 @@ import Profile from './components/Profile/Profile';
 function App() {
   return (
     <>
-      <Router>
+      <Router basename="/React-Appwrite-TODO">
         <Navbar />
         <Routes>
           <Route exact path='/' element={<Home />}></Route>
